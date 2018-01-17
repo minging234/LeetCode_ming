@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-
+    
         i = 0
         while i < len(nums):
             j = i
