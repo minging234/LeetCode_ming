@@ -92,7 +92,71 @@
 # a = [1,2,3]
 # print(1 in a[4:])
 
+# for i in range(1,0):
+#     print(i)
 
+# a = ["1","2","3"]
+# b = list(a) 
+# b.remove("1")
+# print(a,b)
 
-for i in range(1,0):
-    print(i)
+# a = [1,2,4,3]
+# a.sort()
+# print(a)
+
+# dic = {1:0}
+# dic.pop(1,None)
+# print (dic)
+
+# a = "abcdefg"
+
+# print(a[::1])
+
+# t = []
+# b = list(t)
+# print(b)
+
+# a = 'abcd'
+# a[2] = 'a'
+
+# print(a)
+
+# a = list(range(1,1))
+# print(a)
+
+# a = []
+# a.append(None)
+
+# print (a)
+
+# target = 3
+# su = [1,5,11,5]
+
+# dp =[[False] * target] * len(su)
+
+# print(dp)
+
+# for i in dp:
+#     i = True
+# print(dp)
+
+# a = []
+# print(a[-1])
+
+# board = [[4,1,2],[5,0,3]]
+# bd = list(board)
+# b = 1
+# bd[b][0],bd[b][1] = bd[b][1],bd[b][0]
+
+# print(board,bd)
+
+# a = "9"
+# b = "a"
+
+# print(a>b)
+
+# a = 123
+# print(list(str(a)))
+
+a = []
+print(sum(a))
