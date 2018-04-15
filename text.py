@@ -158,5 +158,46 @@
 # a = 123
 # print(list(str(a)))
 
-a = []
-print(sum(a))
+# a = [1,2,3,4,5,5,5,5,5,5,5,6]
+# # for i, cand in enumerate(a):
+# #     print(i,cand)
+
+# import bisect
+
+# b = bisect.bisect_right(a,5)
+# c = bisect.bisect_left(a,5)
+# print(b,c)
+
+# a = [1,2,3,4,5]
+
+# import collections
+
+# b = collections.Counter(a)
+
+# print(b)
+
+# a = [1,2,3,4,5,6,7,8,9,10]
+
+# print(a[-5:])
+
+# a = [1,2,3,4,1,1,1]
+# import collections
+
+# b = collections.Counter(a)
+
+# print(b[5])
+
+# a = {}
+# l ='a'
+# a [l] = [1,2,3]
+# print(a[l])
+
+# a = -3
+# # b = a % 5
+# # print(b)
+
+# b = 'f'
+# a = int(b,16)
+# print (a)
+
+print(ord("a"))
