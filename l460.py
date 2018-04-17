@@ -1,3 +1,5 @@
+""" LFU Cache """
+
 import heapq
 class LFUCache(object):
     def __init__(self, capacity):

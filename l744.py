@@ -1,3 +1,5 @@
+""" Find Smallest Letter Greater """
+
 class Solution:
     def nextGreatestLetter(self, letters, target):
         """

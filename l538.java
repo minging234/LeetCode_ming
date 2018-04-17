@@ -1,6 +1,8 @@
-538. Convert BST to Greater Tree
+// 538. Convert BST to Greater Tree
+import java.util.ArrayDeque;
 
-package com.company;
+import java.util.Deque;
+
 
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
@@ -38,12 +40,9 @@ public class Solution {
 }
 
 
-538. Convert BST to Greater Tree
+// 538. Convert BST to Greater Tree
 
 
-import java.util.ArrayDeque;
-
-import java.util.Deque;
 
 public class TreeNode {
       int val;

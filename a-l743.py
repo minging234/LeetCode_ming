@@ -1,3 +1,4 @@
+"""  Network Delay Time """
 class Solution:
     def networkDelayTime(self, times, N, K):
         """

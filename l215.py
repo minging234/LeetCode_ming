@@ -1,3 +1,5 @@
+"""Kth Largest Element"""
+
 class Solution:
     def findKthLargest(self, nums, k):
         """
