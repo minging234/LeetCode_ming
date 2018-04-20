@@ -200,4 +200,19 @@
 # a = int(b,16)
 # print (a)
 
-print(ord("a"))
+# print(ord("a"))
+
+# class A:
+#     def ao(self):
+#         ans = 0
+#         def foo(b):
+#             b += 1
+#             ans = max(ans, b)
+#             return 
+#         foo(2)
+#         return ans
+
+# a = A()
+# print(a.ao())
+
+
