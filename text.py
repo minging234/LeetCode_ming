@@ -215,4 +215,7 @@
 # a = A()
 # print(a.ao())
 
+a = 10
+b = -3
+print(a%3, b%a)
 
