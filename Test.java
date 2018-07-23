@@ -27,17 +27,22 @@ public class Test {
         // }
 
 
-        int[] a = new int[8];
+        // int[] a = new int[8];
 
-        for (int i=0; i < a.length; i++) {
-            if (i == 0 && a[i+1] == 0) {
-                System.out.println("get first");
-            } else if (i == a.length - 1 && a[i-1] == 0) {
-                System.out.println("get last");
-            } else {
-                System.out.println("get middle");
-            }
-        }
+        // for (int i=0; i < a.length; i++) {
+        //     if (i == 0 && a[i+1] == 0) {
+        //         System.out.println("get first");
+        //     } else if (i == a.length - 1 && a[i-1] == 0) {
+        //         System.out.println("get last");
+        //     } else {
+        //         System.out.println("get middle");
+        //     }
+        // }
 
+
+        int a = 1;
+        double b = 2;
+
+        System.out.println(a + b);
     }
 }
